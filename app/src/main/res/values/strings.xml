@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Custom Toast</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="demo">Here, I\'m !</string>
+</resources>
